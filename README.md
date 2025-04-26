@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mahima 
-- 👀 I’m interested in backend dev (more compare to frontend)
-- 🌱 I’m currently learning Golang and Java
-- 💞️ I’m looking to collaborate on Full stack projects and hackathons
+- 👀 I’m interested in backend dev 
+- 🌱 I’m currently learning Golang
+- 💞️ I’m looking to collaborate on Hackathons and Full stack projects 
 
   
 
